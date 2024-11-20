@@ -2,5 +2,15 @@
     "title":"吃虫子的橙",
     "subTitle":"在你眼前的是一个懒洋洋的被生活压弯了腰的40+的胖大叔",
     "avatarUrl":"https://avatars.githubusercontent.com/u/23441656?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"11/20/2024",
+    "singlePage":["about", "link"],
+    "i18n":"CN",
+    "UTC":8,
+    "urlMode":"pinyin",
+    "showPostSource":1,
+    "rssSplit":"sentence",
+    "bottomText":"爱谁谁吧我还能咋样",
+    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "needComment":0
 }
