@@ -1,8 +1,8 @@
 {
     "title":"吃虫子的橙",
-    "subTitle":"在你眼前的是一个懒洋洋的被生活压弯了腰的40+的胖大叔",
-    "avatarUrl":"https://ronny200.github.io/kun.png",
-    "faviconUrl":"https://avatars.githubusercontent.com/u/23441656?v=4",
+    "subTitle":"在你眼前的是一个被生活压弯了腰的40+的胖大叔",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/23441656?v=4",
+    "faviconUrl":"https://ronny200.github.io/favicon.png",
     "email":"42517731@qq.com",
     "GMEEK_VERSION":"main",
     "startSite":"11/20/2024",
@@ -14,6 +14,6 @@
     "showPostSource":1,
     "rssSplit":"sentence",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "bottomText":"👴 爱谁谁吧我还能咋样 👴",
+    "bottomText":"👴 地铁老人手机 👴",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />"
 }
