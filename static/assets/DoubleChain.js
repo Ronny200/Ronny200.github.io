@@ -3,7 +3,7 @@ function convertLinks() {
     if (postBody) {
         var currentUrl = new URL(window.location.href);
         var newHtml = postBody.innerHTML.replace(/$\[(.*?)$\]/g, function(match, p1)  {
-        var urlPart = encodeURIComponent(p1);
+        var urlPart = encodeURIComponent(p1).replace(/%20/g, '%20');
         var linkUrl = new URL('/post/' + urlPart + '.html', currentUrl).href;
         return `<a href="${linkUrl}">${p1}</a>`;
     });
