@@ -1,7 +1,7 @@
 {
     "title":"胖叔笔记",
-    "subTitle":"在你眼前的是一个被生活压弯了腰的40+的胖大叔",
-    "displayTitle":"学习随笔",
+    "subTitle":"在你眼前的是一个被生活压弯了腰的40+的 Uncale胖",
+    "displayTitle":"想啥写啥",
     "avatarUrl":"https://avatars.githubusercontent.com/u/23441656?v=4",
     "faviconUrl":"https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/logo/favicon.png",
     "email":"42517731@qq.com",
@@ -17,7 +17,7 @@
     "showPostSource":1,
     "rssSplit":"sentence",
     "allHead":"<script src='https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/assets/lightbox.min.js'></script><script src='https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/assets/GmeekBSZ.min.js'></script>",
-    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "bottomText":"❤️ 不是--我这破地方你也转? ❤️",
     "indexScript":"<script src='https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/assets/NumPagination.min.js'></script>",
     "script":"<script src='https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/assets/lazyload.min.js'></script><script src='https://cdn.jsdelivr.net/gh/Ronny200/ronny200.github.io/static/assets/backtotop.min.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />"
